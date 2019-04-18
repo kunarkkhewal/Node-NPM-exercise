@@ -1,0 +1,19 @@
+{
+  "name": "exercise-node-npm",
+  "version": "1.0.0",
+  "description": "exercise for practicing node and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+
+  },
+  "author": "kunark_khewal",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
